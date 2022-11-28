@@ -1,5 +1,6 @@
-### Hi there 👋
-- 🌱 I’m currently learning about software development
+# Hi there 👋
+## I'm a newcomer to the group. But I'll do my best to keep up.
+- 🌱 I’m currently learning about Web App Software Development.
 <!--
 **scarethemoff/scarethemoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
